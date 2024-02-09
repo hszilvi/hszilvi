@@ -9,7 +9,7 @@ Here are some ideas to get you started: -->
 - 👯 I’m looking to collaborate on beginner stuff to grow my knowledge. 
 
 
+![hszilvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=hszilvi&show_icons=true&theme=radical)
 
 
-
-[![hszilvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=hszilvi)](https://github.com/hszilvi/github-readme-stats)
+<!--[![hszilvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=hszilvi)](https://github.com/hszilvi/github-readme-stats) -->
