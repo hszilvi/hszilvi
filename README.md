@@ -14,3 +14,4 @@ Here are some ideas to get you started: -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hszilvi&layout=compact)
 
 <!--[![hszilvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=hszilvi)](https://github.com/hszilvi/github-readme-stats) -->
+![](https://komarev.com/ghpvc/?username=your-github-hszilvi&abbreviated=true)
